@@ -1,0 +1,8 @@
+``` -  Big Box
+`   - Highlight
+** - bold
+__ - underline
+-   - italic
+> (then press space) - list
+# (then press space) - Bold and Huge Font Size
+~~  - strike
